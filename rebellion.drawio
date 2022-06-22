@@ -1,0 +1,1015 @@
+<mxfile host="65bd71144e" scale="1" border="10">
+    <diagram id="X3sNGoU-8sC0jHC4KcqI" name="Page-1">
+        <mxGraphModel dx="7253" dy="1416" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5300" pageHeight="1600" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="309" value="&lt;div style=&quot;font-size: 32px&quot;&gt;Rebellion of the Nix&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="-235" y="45" width="315" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="310" value="&lt;font style=&quot;font-size: 20px&quot; face=&quot;Tahoma&quot;&gt;Level Range: 150 - 190 (Lock: 120)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-235" y="82" width="325" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="311" value="&lt;font style=&quot;font-size: 20px&quot; face=&quot;Tahoma&quot;&gt;Area Creators: Lumina &amp;amp; Jernau&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-235" y="112" width="335" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="325" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="-240" y="160" width="280" height="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="326" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#FF0000;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="-225" y="170" width="40" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="327" value="" style="endArrow=none;html=1;rounded=0;shadow=0;sketch=0;fontSize=13;jumpStyle=none;jumpSize=6;verticalAlign=middle;horizontal=1;endFill=0;fillColor=none;gradientColor=none;strokeColor=#000000;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-225" y="275" as="sourcePoint"/>
+                        <mxPoint x="-185" y="275" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="328" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;|&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=20;strokeColor=#630000;strokeWidth=1;fillColor=#FF0000;gradientColor=none;horizontal=1;labelBackgroundColor=none;direction=south;rotation=0;container=0;" parent="327" connectable="0" vertex="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-2" y="-3" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="329" value="" style="endArrow=none;html=1;rounded=0;shadow=0;sketch=0;fontSize=13;jumpStyle=none;jumpSize=6;verticalAlign=middle;horizontal=1;endFill=0;fillColor=none;gradientColor=none;strokeColor=#000000;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-225" y="304" as="sourcePoint"/>
+                        <mxPoint x="-185" y="304" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="330" value="&lt;div style=&quot;font-size: 20px&quot;&gt;X&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=20;strokeColor=#630000;strokeWidth=1;fillColor=#FF0000;gradientColor=none;horizontal=1;labelBackgroundColor=none;direction=south;rotation=0;container=0;" parent="329" connectable="0" vertex="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-2" y="-1" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="331" value="" style="endArrow=classic;html=1;fontSize=13;strokeColor=#000000;fillColor=none;gradientColor=none;endFill=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-225" y="335" as="sourcePoint"/>
+                        <mxPoint x="-185" y="335" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="332" value="Room with aggressive mobs" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="-180" y="172.5" width="210" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="333" value="Door - can pass w/ pass door" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="-180" y="265" width="210" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="334" value="Door - cannot pass" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="-180" y="295" width="210" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="335" value="Exit is one-way only" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="-180" y="325" width="210" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="338" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#0000FF;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="-225" y="202" width="40" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="339" value="Maze / directions are randomized" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="-180" y="204.5" width="210" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="340" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;strokeWidth=1;direction=south;strokeColor=#000000;fillColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="-217.50499999999988" y="354.115" width="25" height="11.79" as="geometry"/>
+                </mxCell>
+                <mxCell id="341" value="Key location" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="-180" y="350" width="210" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="343" value="" style="endArrow=none;html=1;rounded=0;shadow=0;sketch=0;strokeColor=default;jumpStyle=none;endFill=0;fontFamily=Helvetica;fontColor=#000000;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-225" y="385" as="sourcePoint"/>
+                        <mxPoint x="-185" y="385" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="344" value="" style="shape=mxgraph.office.security.lock_protected;html=1;outlineConnect=0;strokeColor=default;strokeWidth=1;fillColor=#000000;fontFamily=Helvetica;fontColor=#000000;" parent="343" vertex="1">
+                    <mxGeometry width="15" height="20" relative="1" as="geometry">
+                        <mxPoint x="-7" y="-10" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="345" value="Locked door" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="-180" y="375" width="210" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="346" value="&lt;font style=&quot;font-size: 11px&quot; color=&quot;#0000ff&quot;&gt;&lt;b&gt;exit&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-225" y="402.5" width="40" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="347" value="Custom exit command" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="-180" y="400" width="210" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="348" value="&lt;font style=&quot;font-size: 11px&quot; color=&quot;#0000ff&quot;&gt;&lt;b&gt;(exit)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-225" y="427.5" width="40" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="349" value="Custom exit destination" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;container=0;" parent="1" vertex="1">
+                    <mxGeometry x="-180" y="425" width="210" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="355" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" parent="1" source="351" target="354" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="359" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" parent="1" source="351" target="358" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="On a Well-Lit Pier" room="10305" tags="" pk="" healrate="100" manarate="100" sector="City" id="351">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="-240" y="539" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="352" value="&lt;span style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;Brightsea and Glimmerdim, The Harbor Road&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-140" y="474" width="130" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="353" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#333333;gradientColor=#666666;edgeStyle=elbowEdgeStyle;" parent="1" source="352" target="351" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="310" y="913" as="sourcePoint"/>
+                        <mxPoint x="50" y="454" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-180" y="519"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="357" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" parent="1" source="354" target="356" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="The Tavern of the Chequered Owl" room="10306" tags="indoors" pk="" healrate="100" manarate="100" sector="Inside" id="354">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="-240" y="639" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="Back of the Tavern" room="10307" tags="indoors" pk="" healrate="100" manarate="100" sector="Inside" id="356">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="-240" y="739.9" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="The End of the Pier" room="10308" tags="nomobs" pk="" healrate="100" manarate="100" sector="City" id="358">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="-80.00999999999999" y="539" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="360" value="&lt;font style=&quot;font-size: 11px&quot; color=&quot;#0000ff&quot;&gt;&lt;b&gt;enter gast&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-80.00999999999999" y="584" width="120" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="363" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" parent="1" source="361" target="362" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="Before the Gates of Rhodus" room="10309" tags="" pk="" healrate="100" manarate="100" sector="City" id="361">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="2159.99" y="640.45" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="365" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" parent="1" source="362" target="364" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="370" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" parent="1" source="362" target="366" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="389" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" parent="1" source="362" target="388" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="Reimers Avenue by the City Gates" room="10310" tags="" pk="" healrate="100" manarate="100" sector="City" id="362">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="2159.99" y="539.55" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="The Visitors' Hostel" room="10320" tags="nomobs indoors" pk="" healrate="101" manarate="101" sector="Inside" id="364">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="2319.99" y="539.55" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="372" style="edgeStyle=none;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="366" target="371" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="Guard Post at the Bottom of a Tower" room="10375" tags="nomobs indoors" pk="" healrate="100" manarate="100" sector="Inside" id="366">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="1999.9899999999998" y="539.55" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="Prison" room="10355" tags="indoors norecall prison" pk="" healrate="100" manarate="100" sector="Inside" id="367">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" parent="1" vertex="1">
+                        <mxGeometry x="1840" y="639.55" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="368" value="" style="endArrow=none;html=1;rounded=0;shadow=0;sketch=0;fontSize=13;strokeColor=default;jumpStyle=none;jumpSize=6;verticalAlign=middle;horizontal=1;endFill=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="366" target="367" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="2679.99" y="829.55" as="sourcePoint"/>
+                        <mxPoint x="2679.99" y="789.55" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="369" value="&lt;div style=&quot;font-size: 20px&quot;&gt;X&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=20;strokeColor=#630000;strokeWidth=1;fillColor=#FF0000;gradientColor=none;horizontal=1;labelBackgroundColor=none;direction=south;rotation=-45;" parent="368" connectable="0" vertex="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-2" y="1" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="The Watchtower of Rhodus" room="10376" tags="" pk="" healrate="100" manarate="100" sector="City" id="371">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="1840" y="440" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="Torture Chamber" room="10356" tags="indoors norecall prison" pk="" healrate="100" manarate="100" sector="Inside" id="385">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=2;fillColor=#CCFFFF;" parent="1" vertex="1">
+                        <mxGeometry x="1680" y="740" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="386" value="" style="endArrow=none;html=1;rounded=0;shadow=0;sketch=0;fontSize=13;strokeColor=default;jumpStyle=none;jumpSize=6;verticalAlign=middle;horizontal=1;endFill=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="367" target="385" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="2004.9899999999998" y="604.55" as="sourcePoint"/>
+                        <mxPoint x="1965" y="644.55" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="387" value="&lt;div style=&quot;font-size: 20px&quot;&gt;X&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=20;strokeColor=#630000;strokeWidth=1;fillColor=#FF0000;gradientColor=none;horizontal=1;labelBackgroundColor=none;direction=south;rotation=-45;" parent="386" connectable="0" vertex="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-2" y="1" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="391" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" parent="1" source="388" target="390" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="393" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" parent="1" source="388" target="392" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="395" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" parent="1" source="388" target="394" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="Reimers Avenue" room="10311" tags="" pk="" healrate="100" manarate="100" sector="City" id="388">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="2159.99" y="440" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="The Metalsmith's Shop" room="10321" tags="indoors" pk="" healrate="100" manarate="100" sector="Inside" id="390">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="2319.99" y="440" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="A Granary" room="10319" tags="nomobs indoors" pk="" healrate="100" manarate="100" sector="Inside" id="392">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="2000" y="440" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="397" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" parent="1" source="394" target="396" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="402" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" parent="1" source="394" target="401" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="Reimers Avenue" room="10312" tags="" pk="" healrate="100" manarate="100" sector="City" id="394">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="2159.99" y="340" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="A Closed-Down Shop" room="10322" tags="indoors" pk="" healrate="100" manarate="100" sector="Inside" id="396">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="2319.99" y="340" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="A Molyneuxan Home" room="10323" tags="indoors" pk="" healrate="100" manarate="100" sector="Inside" id="398">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="1999.9899999999998" y="340" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="399" value="" style="endArrow=none;html=1;rounded=0;shadow=0;sketch=0;fontSize=13;strokeColor=default;jumpStyle=none;jumpSize=6;verticalAlign=middle;horizontal=1;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="394" target="398" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1915" y="548" as="sourcePoint"/>
+                        <mxPoint x="1955" y="548" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="400" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;|&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=20;strokeColor=#630000;strokeWidth=1;fillColor=#FF0000;gradientColor=none;horizontal=1;labelBackgroundColor=none;direction=south;rotation=0;" parent="399" connectable="0" vertex="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-2" y="-3" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="404" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="401" target="403" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="410" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" parent="1" source="401" target="409" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="Orduna Plaza" room="10313" tags="" pk="" healrate="100" manarate="100" sector="City" id="401">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="2160" y="240" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="406" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" parent="1" source="403" target="405" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="Loredo Avenue" room="10314" tags="" pk="" healrate="100" manarate="100" sector="City" id="403">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="2480" y="240" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="408" style="edgeStyle=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="405" target="407" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="The Wyvern Guild" room="10324" tags="nomobs indoors" pk="" healrate="100" manarate="100" sector="Inside" id="405">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="2480" y="340" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="Atop the Wyvern Guildhall" room="10352" tags="" pk="" healrate="100" manarate="100" sector="City" id="407">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="2640" y="240" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="412" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" parent="1" source="409" target="411" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="414" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" parent="1" source="409" target="413" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="Loredo Avenue" room="10315" tags="" pk="" healrate="100" manarate="100" sector="City" id="409">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="1839.99" y="240" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="A Craftsman's Home" room="10325" tags="indoors" pk="" healrate="100" manarate="100" sector="Inside" id="411">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="1839.99" y="340" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="416" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" parent="1" source="413" target="415" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="418" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" parent="1" source="413" target="417" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="423" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" parent="1" source="413" target="422" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="Loredo Avenue" room="10316" tags="" pk="" healrate="100" manarate="100" sector="City" id="413">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="1680" y="240" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="A Dirty Alley" room="10326" tags="nomobs safe" pk="" healrate="100" manarate="100" sector="City" id="415">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="1680" y="340" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="A Beautiful Garden" room="10328" tags="" pk="" healrate="125" manarate="125" sector="Field" id="417">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="1680" y="140" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="A Lavish Molyneuxan Home" room="10377" tags="nomobs indoors safe norecall prison nosummon" pk="" healrate="125" manarate="125" sector="Inside" id="419">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" parent="1" vertex="1">
+                        <mxGeometry x="1680" y="40" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="420" value="" style="endArrow=none;html=1;rounded=0;shadow=0;sketch=0;strokeColor=default;jumpStyle=none;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=0;" parent="1" source="417" target="419" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1675" y="245" as="sourcePoint"/>
+                        <mxPoint x="1855" y="245" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="421" value="" style="shape=mxgraph.office.security.lock_protected;html=1;outlineConnect=0;strokeColor=default;strokeWidth=1;fillColor=#000000;" parent="420" vertex="1">
+                    <mxGeometry width="15" height="20" relative="1" as="geometry">
+                        <mxPoint x="-7" y="-10" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="425" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" parent="1" source="422" target="424" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="454" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=0;" parent="1" source="422" target="453" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="The Abandoned Edge of Loredo Avenue" room="10317" tags="nomobs" pk="" healrate="100" manarate="100" sector="City" id="422">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="1520" y="240" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="An Abandoned Home" room="10327" tags="" pk="" healrate="100" manarate="100" sector="Inside" id="424">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="1520" y="340" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="430" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" parent="1" source="426" target="429" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="A Converted Sewer" room="10353" tags="indoors" pk="" healrate="100" manarate="100" sector="Underground" id="426">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="1360" y="440" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="427" value="" style="endArrow=none;html=1;rounded=0;shadow=0;sketch=0;fontSize=13;strokeColor=default;jumpStyle=none;jumpSize=6;verticalAlign=middle;horizontal=1;endFill=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="422" target="426" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1583" y="395" as="sourcePoint"/>
+                        <mxPoint x="1583" y="355" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="1500" y="320"/>
+                            <mxPoint x="1500" y="420"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="428" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;|&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=20;strokeColor=#630000;strokeWidth=1;fillColor=#FF0000;gradientColor=none;horizontal=1;labelBackgroundColor=none;direction=south;rotation=-90;" parent="427" connectable="0" vertex="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-3" y="2" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="Sewer Hideaway" room="10354" tags="indoors" pk="" healrate="100" manarate="100" sector="Underground" id="429">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="1520" y="440" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="434" value="" style="edgeStyle=none;html=1;endArrow=classic;endFill=1;" parent="1" source="431" target="433" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="435" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" parent="1" source="431" target="432" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="The Shore of a Rocky Island" room="10366" tags="norecall prison nosummon" pk="" healrate="100" manarate="100" sector="Field" id="431">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" parent="1" vertex="1">
+                        <mxGeometry x="1040" y="1080" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="437" style="edgeStyle=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="432" target="436" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="The Bottom of a Giant Staircase" room="10367" tags="norecall prison nosummon" pk="" healrate="100" manarate="100" sector="Mountain" id="432">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" parent="1" vertex="1">
+                        <mxGeometry x="1040.01" y="980" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="An Outcropping of Crystalline Boulders" room="10374" tags="nomobs" pk="" healrate="100" manarate="125" sector="Field" id="433">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="1200" y="1080" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="439" style="edgeStyle=none;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="436" target="438" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="Climbing a Giant Staircase" room="10368" tags="norecall prison nosummon" pk="" healrate="100" manarate="100" sector="Mountain" id="436">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" parent="1" vertex="1">
+                        <mxGeometry x="1200" y="880" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="441" style="edgeStyle=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="438" target="440" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="Climbing a Giant Staircase" room="10369" tags="nomobs norecall prison nosummon" pk="" healrate="100" manarate="100" sector="Mountain" id="438">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" parent="1" vertex="1">
+                        <mxGeometry x="1040.01" y="780" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="443" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" parent="1" source="440" target="442" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="The Top of the Mountain" room="10370" tags="norecall prison nosummon" pk="" healrate="100" manarate="100" sector="Mountain" id="440">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" parent="1" vertex="1">
+                        <mxGeometry x="1200" y="680" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="Before the Giant Castle" room="10371" tags="norecall prison nosummon" pk="" healrate="100" manarate="100" sector="Mountain" id="442">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" parent="1" vertex="1">
+                        <mxGeometry x="1200" y="580" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="444" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;strokeWidth=1;direction=south;strokeColor=#000000;fillColor=#33FF33;fontColor=#33FF33;" parent="1" vertex="1">
+                    <mxGeometry x="1179.995" y="564.1049999999999" width="25" height="11.79" as="geometry"/>
+                </mxCell>
+                <mxCell id="445" value="Key on neutral guard" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="1210" y="560" width="120.01" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="446" value="" style="endArrow=none;html=1;rounded=0;shadow=0;sketch=0;strokeColor=default;jumpStyle=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="442" target="448" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1025.01" y="570" as="sourcePoint"/>
+                        <mxPoint x="1150.01" y="600" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="447" value="" style="shape=mxgraph.office.security.lock_protected;html=1;outlineConnect=0;strokeColor=default;strokeWidth=1;fillColor=#00FF00;" parent="446" vertex="1">
+                    <mxGeometry width="15" height="20" relative="1" as="geometry">
+                        <mxPoint x="-7" y="-10" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="450" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" parent="1" source="448" target="449" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="Heth's Castle" room="10372" tags="indoors norecall prison nosummon" pk="" healrate="100" manarate="100" sector="Inside" id="448">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" parent="1" vertex="1">
+                        <mxGeometry x="1360.01" y="580" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="451" style="edgeStyle=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;rounded=0;" parent="1" source="449" target="433" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1340.01" y="760"/>
+                            <mxPoint x="1340.01" y="1060"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="The Parapet of Heth's Castle" room="10373" tags="norecall prison nosummon" pk="" healrate="100" manarate="100" sector="Hills" id="449">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" parent="1" vertex="1">
+                        <mxGeometry x="1360.01" y="680" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="456" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=0;" parent="1" source="453" target="455" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="At the City Walls" room="10318" tags="nomobs" pk="" healrate="100" manarate="100" sector="Field" id="453">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="1360" y="240" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="458" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=0;" parent="1" source="455" target="457" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="Under a Churning Sky" room="10329" tags="" pk="" healrate="50" manarate="50" sector="Hills" id="455">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="1200" y="240" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="Waves of Nixie Devilment" room="10330" tags="nomobs nosummon" pk="" healrate="-10" manarate="0" sector="Air" id="457">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=2;" parent="1" vertex="1">
+                        <mxGeometry x="1040" y="240" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="463" style="edgeStyle=none;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="459" target="462" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="940" y="355"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="513" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;rounded=0;" edge="1" parent="1" source="459" target="457">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1020" y="270" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="566" style="edgeStyle=none;rounded=0;jumpStyle=arc;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="459" target="470">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="970" y="170"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="On the Ocean?" room="10331" tags="nosummon" pk="" healrate="10" manarate="75" sector="Chaos_sea" id="459">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0000FF;strokeWidth=2;" parent="1" vertex="1">
+                        <mxGeometry x="880" y="240" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="565" style="edgeStyle=none;rounded=0;jumpStyle=arc;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="460" target="470">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="569" style="edgeStyle=none;rounded=0;jumpStyle=arc;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="460" target="462">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="855" y="350" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="570" style="edgeStyle=none;rounded=0;jumpStyle=arc;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="460" target="466">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="700" y="270"/>
+                            <mxPoint x="700" y="425"/>
+                            <mxPoint x="620" y="425"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="572" style="edgeStyle=none;rounded=0;jumpStyle=arc;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;endArrow=classic;endFill=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="460" target="459">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="860" y="255" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="On the Ocean?" room="10345" tags="nosummon" pk="" healrate="10" manarate="75" sector="Chaos_sea" id="460">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0000FF;strokeWidth=2;" parent="1" vertex="1">
+                        <mxGeometry x="720" y="240" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="545" style="edgeStyle=none;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;jumpStyle=arc;" edge="1" parent="1" source="461" target="462">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="562" style="edgeStyle=none;rounded=0;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="461" target="477">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="485" y="320" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="590" y="320"/>
+                            <mxPoint x="460" y="320"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="563" style="edgeStyle=none;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="461" target="465">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="620" y="415"/>
+                            <mxPoint x="750" y="415"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="564" style="edgeStyle=none;rounded=0;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;jumpStyle=arc;" edge="1" parent="1" source="461" target="471">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="On the Ocean?" room="10333" tags="nosummon" pk="" healrate="10" manarate="75" sector="Chaos_sea" id="461">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0000FF;strokeWidth=2;" parent="1" vertex="1">
+                        <mxGeometry x="560" y="339.9100000000001" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="On the Ocean?" room="10332" tags="nosummon" pk="" healrate="10" manarate="75" sector="Chaos_sea" id="462">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0000FF;strokeWidth=2;" parent="1" vertex="1">
+                        <mxGeometry x="720" y="340" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="464" style="edgeStyle=none;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" parent="1" source="462" target="462" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="855" y="370"/>
+                            <mxPoint x="855" y="385"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="467" style="edgeStyle=none;rounded=0;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="465" target="466" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="534" style="edgeStyle=none;rounded=0;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="465" target="462">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="573" style="edgeStyle=none;rounded=0;jumpStyle=arc;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="465" target="459">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="865" y="470"/>
+                            <mxPoint x="865" y="285"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="On One of the Nixie Ships" room="10334" tags="norecall nosummon" pk="" healrate="-50" manarate="75" sector="Ship" id="465">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="720" y="440" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="469" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=0;" parent="1" source="466" target="468" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="On One of the Nixie Ships" room="10335" tags="norecall nosummon" pk="" healrate="-50" manarate="75" sector="Ship" id="466">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="560" y="440" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="540" style="edgeStyle=none;rounded=0;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="468" target="539">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="The Helm of a Nixie Ship" room="10336" tags="norecall nosummon" pk="" healrate="-50" manarate="75" sector="Ship" id="468">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="400" y="440" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="474" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=0;" parent="1" source="470" target="471" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="On One of the Nixie Ships" room="10337" tags="norecall nosummon" pk="" healrate="-50" manarate="75" sector="Ship" id="470">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="720" y="140" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="473" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=0;" parent="1" source="471" target="472" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="On One of the Nixie Ships" room="10338" tags="norecall nosummon" pk="" healrate="-50" manarate="75" sector="Ship" id="471">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="560" y="140" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="521" style="edgeStyle=none;rounded=0;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="472" target="520">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="522" style="edgeStyle=none;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="472" target="518">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="The Helm of a Nixie Ship" room="10339" tags="norecall nosummon" pk="" healrate="-50" manarate="75" sector="Ship" id="472">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="400" y="140" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="479" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=0;" parent="1" source="477" target="478" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="549" style="edgeStyle=none;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="477" target="548">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="551" style="edgeStyle=none;rounded=0;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="477" target="550">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="On One of the Nixie Ships" room="10340" tags="norecall nosummon" pk="" healrate="-50" manarate="75" sector="Ship" id="477">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="400" y="340" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="481" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=0;" parent="1" source="478" target="480" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="On One of the Nixie Ships" room="10341" tags="norecall nosummon" pk="" healrate="-50" manarate="75" sector="Ship" id="478">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="240" y="340" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="At the Helm of a Nixie Ship" room="10342" tags="norecall prison nosummon" pk="" healrate="-50" manarate="75" sector="Ship" id="480">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="80" y="340" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="486" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=0;" parent="1" source="482" target="485" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="On the Flagship's Upper Deck" room="10343" tags="norecall prison nosummon" pk="" healrate="-25" manarate="75" sector="Bloodyroom" id="482">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;strokeColor=#FF0000;strokeWidth=2;" parent="1" vertex="1">
+                        <mxGeometry x="240" y="240" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="483" value="" style="endArrow=none;html=1;rounded=0;shadow=0;sketch=0;fontSize=13;strokeColor=default;jumpStyle=none;jumpSize=6;verticalAlign=middle;horizontal=1;endFill=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="480" target="482" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="240" y="375" as="sourcePoint"/>
+                        <mxPoint x="280" y="335" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="484" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;|&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=20;strokeColor=#630000;strokeWidth=1;fillColor=#FF0000;gradientColor=none;horizontal=1;labelBackgroundColor=none;direction=south;rotation=-45;" parent="483" connectable="0" vertex="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-3" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="Beneath the Banner of the Rebellion" room="10344" tags="nomobs indoors norecall prison nosummon" pk="" healrate="-75" manarate="100" sector="Bloodyroom" id="485">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;strokeColor=#FF0000;strokeWidth=2;" parent="1" vertex="1">
+                        <mxGeometry x="400" y="240" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="489" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=0;" parent="1" source="487" target="488" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="The Battlegrounds of the Nix" room="10359" tags="indoors norecall prison nosummon" pk="" healrate="100" manarate="100" sector="Air" id="487">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0000FF;strokeWidth=2;fillColor=#CCFFFF;" parent="1" vertex="1">
+                        <mxGeometry x="240" y="639" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="491" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=0;" parent="1" source="488" target="490" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="The Battlegrounds of the Nix" room="10360" tags="indoors norecall prison nosummon" pk="" healrate="100" manarate="100" sector="Air" id="488">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0000FF;strokeWidth=2;fillColor=#CCFFFF;" parent="1" vertex="1">
+                        <mxGeometry x="400" y="639" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="494" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=0;" parent="1" source="490" target="493" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="496" style="edgeStyle=none;rounded=0;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" parent="1" source="490" target="492" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="The Battlegrounds of the Nix" room="10364" tags="indoors norecall prison nosummon" pk="" healrate="100" manarate="100" sector="Air" id="490">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0000FF;strokeWidth=2;fillColor=#CCFFFF;" parent="1" vertex="1">
+                        <mxGeometry x="400" y="738.5" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="501" style="edgeStyle=none;rounded=0;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" parent="1" source="492" target="500" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="A Swirling Vortex of Energy" room="10365" tags="nomobs indoors norecall prison nosummon" pk="" healrate="50" manarate="75" sector="Inside" id="492">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" parent="1" vertex="1">
+                        <mxGeometry x="560" y="838.5" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="495" style="edgeStyle=none;rounded=0;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="493" target="487" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="The Battlegrounds of the Nix" room="10361" tags="indoors norecall prison nosummon" pk="" healrate="100" manarate="100" sector="Air" id="493">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0000FF;strokeWidth=2;fillColor=#CCFFFF;" parent="1" vertex="1">
+                        <mxGeometry x="240" y="738.5" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="498" style="edgeStyle=none;rounded=0;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" parent="1" source="497" target="487" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="506" value="" style="edgeStyle=none;rounded=0;html=1;fontFamily=Helvetica;endArrow=classic;endFill=1;" parent="1" source="497" target="499" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="A Hill Untouched by the Battle" room="10358" tags="nomobs safe prison nosummon" pk="" healrate="125" manarate="125" sector="Hills" id="497">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="80" y="738.5" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="596" style="edgeStyle=none;rounded=0;jumpStyle=arc;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=7;endArrow=none;endFill=0;" edge="1" parent="1" source="499" target="595">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="The Ruins of Turadar" room="10349" tags="nomobs safe prison nosummon" pk="" healrate="50" manarate="100" sector="Desert" id="499">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="80" y="838.5" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="The Eye of the Storm" room="10379" tags="nomobs indoors norecall prison nosummon morgue" pk="" healrate="25" manarate="50" sector="Inside" id="500">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" parent="1" vertex="1">
+                        <mxGeometry x="720" y="938.5" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="502" value="&lt;div&gt;Wear &lt;font face=&quot;Tahoma&quot;&gt;&lt;b&gt;the King's blessing&lt;/b&gt;&lt;/font&gt; to avoid damage when moving between rooms.&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;gradientColor=none;dashed=1;spacing=6;" parent="1" vertex="1">
+                    <mxGeometry x="540" y="663.5" width="155" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="503" value="&lt;div&gt;Wear &lt;b&gt;&lt;font face=&quot;Tahoma&quot;&gt;the Light of the Balance&lt;/font&gt;&lt;/b&gt; to prevent the enemies from healing&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;gradientColor=none;dashed=1;spacing=6;" parent="1" vertex="1">
+                    <mxGeometry x="540" y="723.5" width="155" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="505" value="&lt;div&gt;Locked doors in the Prison are just for show - they go nowhere and have no key.&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;gradientColor=none;dashed=1;spacing=6;" parent="1" vertex="1">
+                    <mxGeometry x="1845" y="720" width="155" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="507" value="&lt;div&gt;Wear &lt;font face=&quot;Tahoma&quot;&gt;&lt;b&gt;The Nixie Shield&lt;/b&gt;&lt;/font&gt; to avoid additional damage from Nixie devilment.&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;gradientColor=none;dashed=1;spacing=6;" vertex="1" parent="1">
+                    <mxGeometry x="875" y="370" width="155" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="508" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="720" y="240" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="509" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="880" y="240" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="510" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="720" y="340.9000000000001" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="511" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="560" y="340" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="516" style="edgeStyle=none;rounded=0;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="514" target="471">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="514" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="610" y="210" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="517" style="edgeStyle=none;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="515" target="471">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="515" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="610" y="110" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="518" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="210" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="523" style="edgeStyle=none;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="519" target="472">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="519" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="370" y="160" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="520" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="110" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="525" style="edgeStyle=none;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="524" target="470">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="524" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="770" y="110" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="532" style="edgeStyle=none;rounded=0;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="531" target="465">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="531" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="770" y="510" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="537" style="edgeStyle=none;rounded=0;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="535" target="466">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="535" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="610" y="510" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="539" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="420" y="410" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="542" style="edgeStyle=none;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="541" target="468">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="541" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="370" y="460" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="544" style="edgeStyle=none;rounded=0;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="543" target="468">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="543" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="510" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="548" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="530" y="359.90999999999985" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="550" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="410" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="555" style="edgeStyle=none;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="552" target="478">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="552" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="310" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="554" style="edgeStyle=none;rounded=0;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="553" target="478">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="553" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="410" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="557" style="edgeStyle=none;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="556" target="480">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="556" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="310" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="559" style="edgeStyle=none;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="558" target="480">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="558" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="359.90999999999985" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="561" style="edgeStyle=none;rounded=0;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="560" target="480">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="560" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="410" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="576" value="&lt;div&gt;To escape the Battlegrounds, go to &lt;b&gt;A Swirling Vortex of Energy&lt;/b&gt;&amp;nbsp;and wait.&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;gradientColor=none;dashed=1;spacing=6;" vertex="1" parent="1">
+                    <mxGeometry x="693" y="838.5" width="155" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="577" value="&lt;font style=&quot;font-size: 11px&quot; color=&quot;#0000ff&quot;&gt;&lt;b&gt;say help&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="1680" y="86" width="120" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="578" value="&lt;font style=&quot;font-size: 11px&quot; color=&quot;#0000ff&quot;&gt;&lt;b&gt;(say help)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="2159.99" y="586.55" width="120" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="579" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=1;fillColor=#CCFFFF;strokeColor=#000000;container=0;" vertex="1" parent="1">
+                    <mxGeometry x="-225" y="235" width="40" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="580" value="norecall + prison room" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;container=0;" vertex="1" parent="1">
+                    <mxGeometry x="-180" y="237.5" width="210" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="581" value="&lt;font style=&quot;font-size: 11px&quot; color=&quot;#0000ff&quot;&gt;&lt;b&gt;nechtan&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="-240.01" y="785" width="120" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="582" value="&lt;div&gt;&lt;b&gt;nechtan&lt;/b&gt; custom exit requires goal completion&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;gradientColor=none;dashed=1;spacing=6;" vertex="1" parent="1">
+                    <mxGeometry x="-245" y="810" width="155" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="583" value="How to get here:&lt;br&gt;&lt;br&gt;&lt;b&gt;give 10000 gold&lt;/b&gt; to the beggar in &lt;b&gt;A Dirty Alley&lt;/b&gt;, wait for them to give you a map, then &lt;b&gt;give map captain&lt;/b&gt;&amp;nbsp;in &lt;b&gt;Before the&lt;/b&gt; &lt;b&gt;Gates of Rhodus&lt;/b&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#000000;gradientColor=none;dashed=1;spacing=6;" vertex="1" parent="1">
+                    <mxGeometry x="1360.01" y="820" width="155" height="135" as="geometry"/>
+                </mxCell>
+                <mxCell id="584" value="&lt;font style=&quot;font-size: 11px&quot; color=&quot;#0000ff&quot;&gt;&lt;b&gt;(nechtan)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="783.5" width="120" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="587" value="" style="edgeStyle=none;rounded=0;jumpStyle=arc;html=1;fontSize=7;endArrow=none;endFill=0;" edge="1" parent="1" source="585" target="586">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="588" style="edgeStyle=none;rounded=0;jumpStyle=arc;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=7;endArrow=classic;endFill=1;" edge="1" parent="1" source="585" target="371">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1980" y="170"/>
+                            <mxPoint x="1980" y="470"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="Following a Small Stream" room="10346" tags="norecall prison nosummon" pk="" healrate="100" manarate="60" sector="Forest" id="585">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" vertex="1" parent="1">
+                        <mxGeometry x="1999.9899999999998" y="140" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="Before a Great Barrow" room="10347" tags="norecall prison nosummon" pk="" healrate="100" manarate="60" sector="Forest" id="586">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" vertex="1" parent="1">
+                        <mxGeometry x="1999.98" y="40" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="Xavier's Prison" room="10348" tags="prison nosummon" pk="" healrate="100" manarate="80" sector="Underground" id="589">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#FF0000;strokeWidth=2;" vertex="1" parent="1">
+                        <mxGeometry x="1839.99" y="40" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="590" value="" style="endArrow=none;html=1;rounded=0;shadow=0;sketch=0;strokeColor=default;jumpStyle=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endFill=0;fontSize=7;" edge="1" parent="1" source="586" target="589">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1855" y="280" as="sourcePoint"/>
+                        <mxPoint x="2035" y="280" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="591" value="" style="shape=mxgraph.office.security.lock_protected;html=1;outlineConnect=0;strokeColor=default;strokeWidth=1;fillColor=#FF0000;fontSize=7;" vertex="1" parent="590">
+                    <mxGeometry width="15" height="20" relative="1" as="geometry">
+                        <mxPoint x="-7" y="-10" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="592" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;strokeWidth=1;direction=south;strokeColor=#000000;fillColor=#FF0000;fontColor=#33FF33;" vertex="1" parent="1">
+                    <mxGeometry x="1995.005" y="24.104999999999905" width="25" height="11.79" as="geometry"/>
+                </mxCell>
+                <mxCell id="593" value="&lt;b&gt;&lt;font face=&quot;Tahoma&quot;&gt;say horn&lt;/font&gt;&lt;/b&gt; for key" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="2025.0100000000002" y="20" width="120.01" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="594" value="How to get here:&lt;br&gt;&lt;br&gt;Obtain&amp;nbsp;&lt;b&gt;a ring with a Painite crystal&lt;/b&gt;&amp;nbsp;from &lt;b&gt;Nestoda&lt;/b&gt;&amp;nbsp;in &lt;b&gt;Beneath the Banner of the Rebellion&lt;/b&gt; and give it to &lt;b&gt;The guard captain&lt;/b&gt;&amp;nbsp;in &lt;b&gt;The Wyvern Guild&lt;/b&gt;." style="text;html=1;strokeColor=default;fillColor=default;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#000000;gradientColor=none;dashed=1;spacing=6;" vertex="1" parent="1">
+                    <mxGeometry x="2130.02" y="40" width="155" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="597" style="edgeStyle=none;rounded=0;jumpStyle=arc;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=7;endArrow=classic;endFill=1;" edge="1" parent="1" source="595" target="497">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="60" y="968.5"/>
+                            <mxPoint x="60" y="768.5"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="Amid the Nixie Rebels" room="10350" tags="norecall prison" pk="" healrate="-25" manarate="25" sector="Desert" id="595">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;strokeColor=#0000FF;strokeWidth=2;" vertex="1" parent="1">
+                        <mxGeometry x="80" y="938.5" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="Amid the Nixie Rebels" room="10351" tags="norecall prison" pk="" healrate="-25" manarate="25" sector="Desert" id="598">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;strokeColor=#0000FF;strokeWidth=2;" vertex="1" parent="1">
+                        <mxGeometry x="240" y="938.5" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="Amid the Nixie Rebels" room="10362" tags="norecall prison" pk="" healrate="-25" manarate="25" sector="Desert" id="599">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;strokeColor=#0000FF;strokeWidth=2;" vertex="1" parent="1">
+                        <mxGeometry x="80" y="1038.5" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="600" value="&lt;div&gt;Wear &lt;font face=&quot;Tahoma&quot;&gt;&lt;b&gt;The Nixie Shield&lt;/b&gt;&lt;/font&gt; to avoid additional damage from Nixie devilment.&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;gradientColor=none;dashed=1;spacing=6;" vertex="1" parent="1">
+                    <mxGeometry x="225" y="1023.5" width="155" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="601" value="&lt;div&gt;&lt;b&gt;the Horn of Commanding&lt;/b&gt;&amp;nbsp;portal from &lt;b&gt;Xavier&lt;/b&gt; lands here in &lt;b&gt;The Ruins of Turadar&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;gradientColor=none;dashed=1;spacing=6;" vertex="1" parent="1">
+                    <mxGeometry x="215" y="838.5" width="155" height="60" as="geometry"/>
+                </mxCell>
+                <object label="%name%&lt;font color=&quot;#ff0000&quot;&gt;%pk%&lt;/font&gt;&lt;br&gt;(%room%)" placeholders="1" name="Nowhere.  Everywhere." room="10378" tags="nomobs safe norecall prison" pk="" healrate="125" manarate="125" sector="Field" id="602">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" vertex="1" parent="1">
+                        <mxGeometry x="560" y="938.5" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

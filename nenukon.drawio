@@ -1,0 +1,499 @@
+<mxfile host="65bd71144e" scale="1" border="10">
+    <diagram id="r4j8OCH8LPA5-8JfiloW" name="Page-1">
+        <mxGraphModel dx="1074" dy="779" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="0A_by2eqg8Z_qzjbImg3-26" value="&lt;div style=&quot;font-size: 32px&quot;&gt;Nenukon and the Far Country&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="635" y="15" width="430" height="30" as="geometry"/>
+                </mxCell>
+                <UserObject label="Edge of the Nenukon&lt;br&gt;(%room%)" placeholders="1" room="31784" healrate="100" manarate="100" tags="nomobs prison nosummon" id="18">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" parent="1" vertex="1">
+                        <mxGeometry x="340" y="59" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="205" value="&lt;font style=&quot;font-size: 20px&quot; face=&quot;Tahoma&quot;&gt;Level Range: 70 - 100 (Lock: 50)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="640" y="62" width="364" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="206" value="&lt;font style=&quot;font-size: 20px&quot; face=&quot;Tahoma&quot;&gt;Area Creator: SonRokito &amp;amp; Lumina&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="640" y="92" width="416" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="214" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Alagh, the Blood Lands (12, 29)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="255" y="5" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="215" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#333333;gradientColor=#666666;edgeStyle=elbowEdgeStyle;" parent="1" source="214" target="18" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="685" y="444" as="sourcePoint"/>
+                        <mxPoint x="735" y="394" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="310" y="49"/>
+                            <mxPoint x="315" y="44"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="288" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="256" target="269" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="289" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="256" target="257" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="368" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="256" target="18" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="Entering the Nenukon&lt;br&gt;(%room%)" placeholders="1" room="31785" healrate="50" manarate="50" tags="norecall prison" id="256">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#0000FF;strokeWidth=2;" parent="1" vertex="1">
+                        <mxGeometry x="340" y="159" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="265" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="257" target="304" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="600" y="139" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="266" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="257" target="262" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="680" y="189" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="267" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="257" target="272" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="600" y="239" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <UserObject label="The Nenukon&lt;br&gt;(%room%)" placeholders="1" room="31787" healrate="-25" manarate="-25" tags="norecall prison" id="257">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#0000FF;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
+                        <mxGeometry x="340" y="259" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="264" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="262" target="263" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="Nearing a Campsite&lt;br&gt;(%room%)" placeholders="1" room="31789" healrate="50" manarate="50" tags="norecall prison" id="262">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+                        <mxGeometry x="340" y="359" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="A Goblin Encampment&lt;br&gt;(%room%)" placeholders="1" room="31789" healrate="100" manarate="100" tags="norecall prison" id="263">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeWidth=1;" parent="1" vertex="1">
+                        <mxGeometry x="340" y="457" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="287" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="269" target="272" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="The Nenukon&lt;br&gt;(%room%)" placeholders="1" room="31786" healrate="-25" manarate="-25" tags="norecall prison" id="269">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#0000FF;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
+                        <mxGeometry x="500" y="159" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="The Nenukon&lt;br&gt;(%room%)" placeholders="1" room="31790" healrate="-25" manarate="-25" tags="norecall prison" id="272">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#0000FF;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
+                        <mxGeometry x="500" y="259" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="279" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="276" target="284" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="790" y="409" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="286" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="276" target="272" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="The Nenukon&lt;br&gt;(%room%)" placeholders="1" room="31792" healrate="-25" manarate="-25" tags="norecall prison" id="276">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#0000FF;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
+                        <mxGeometry x="660" y="259" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="281" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="280" target="276" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="282" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="280" target="283" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="820" y="379" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <UserObject label="The Oasis&lt;br&gt;(%room%)" placeholders="1" room="31793" healrate="50" manarate="50" tags="norecall prison" id="280">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+                        <mxGeometry x="660" y="159" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="Demon Nest&lt;br&gt;(%room%)" placeholders="1" room="31793" healrate="0" manarate="0" tags="norecall prison" id="283">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+                        <mxGeometry x="820" y="259" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="291" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="284" target="290" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="370" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="284" target="369" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="The Nenukon&lt;br&gt;(%room%)" placeholders="1" room="31795" healrate="-25" manarate="-25" tags="norecall prison" id="284">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#0000FF;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
+                        <mxGeometry x="660" y="359" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="293" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="290" target="292" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="The Nenukon&lt;br&gt;(%room%)" placeholders="1" room="31797" healrate="-25" manarate="-25" tags="norecall prison" id="290">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#0000FF;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
+                        <mxGeometry x="660" y="459" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="295" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="292" target="294" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="Before the Pit of Monuhi&lt;br&gt;(%room%)" placeholders="1" room="31798" healrate="0" manarate="0" tags="norecall prison" id="292">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+                        <mxGeometry x="820" y="459" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="298" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="294" target="297" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1135" y="639" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <UserObject label="The Pit of Monuhi&lt;br&gt;(%room%)" placeholders="1" room="31799" healrate="100" manarate="100" tags="norecall prison" id="294">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+                        <mxGeometry x="980" y="459" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="300" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="297" target="299" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1135" y="699" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <UserObject label="The Pit of Monuhi&lt;br&gt;(%room%)" placeholders="1" room="31800" healrate="0" manarate="0" tags="norecall prison" id="297">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+                        <mxGeometry x="1140" y="559" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="303" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="301" target="302" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="Monuhi's Crypt!&lt;br&gt;(%room%)&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;[**&amp;gt; PK &amp;lt;**]&lt;/font&gt;" placeholders="1" room="31803" healrate="-100" manarate="-100" tags="norecall prison pk" id="302">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+                        <mxGeometry x="1300" y="459" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="306" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="304" target="305" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="313" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="304" target="312" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="The Nenukon&lt;br&gt;(%room%)" placeholders="1" room="31791" healrate="-25" manarate="-25" tags="norecall prison" id="304">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#0000FF;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
+                        <mxGeometry x="180" y="259" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="308" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="305" target="256" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="309" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="305" target="307" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="The Nenukon&lt;br&gt;(%room%)" placeholders="1" room="31788" healrate="-25" manarate="-25" tags="norecall prison" id="305">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#0000FF;strokeWidth=2;fillColor=#FFFFFF;" parent="1" vertex="1">
+                        <mxGeometry x="180" y="159" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="A Small Cave&lt;br&gt;(%room%)" room="31831" healrate="50" manarate="50" tags="norecall prison" placeholders="1" id="307">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+                        <mxGeometry x="180" y="59" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="311" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="310" target="307" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="Yota Timo's Lair&lt;br&gt;(%room%)" placeholders="1" room="31832" healrate="0" manarate="0" tags="norecall prison" id="310">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeWidth=1;" parent="1" vertex="1">
+                        <mxGeometry x="20" y="59" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="315" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="312" target="314" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="Deeper into the Nenukon&lt;br&gt;(%room%)" placeholders="1" room="31805" healrate="-40" manarate="-40" tags="norecall prison" id="312">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;strokeColor=#0000FF;" parent="1" vertex="1">
+                        <mxGeometry x="20" y="259" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="317" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="314" target="316" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="Deeper into the Nenukon&lt;br&gt;(%room%)&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;[**&amp;gt; PK &amp;lt;**]&lt;/font&gt;" placeholders="1" room="31806" healrate="-40" manarate="-40" tags="norecall prison pk" id="314">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;strokeColor=#0000FF;" parent="1" vertex="1">
+                        <mxGeometry x="20" y="359" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="319" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="316" target="318" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="Deeper into the Nenukon&lt;br&gt;(%room%)" placeholders="1" room="31809" healrate="-40" manarate="-40" tags="norecall prison" id="316">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;strokeColor=#0000FF;" parent="1" vertex="1">
+                        <mxGeometry x="20" y="459" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="Deeper into the Nenukon&lt;br&gt;(%room%)&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;[**&amp;gt; PK &amp;lt;**]&lt;/font&gt;" placeholders="1" room="31808" healrate="-40" manarate="-40" tags="norecall prison pk" id="318">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;strokeColor=#0000FF;" parent="1" vertex="1">
+                        <mxGeometry x="180" y="459" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="322" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="320" target="321" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="323" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="320" target="318" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="Demon Spawning Grounds&lt;br&gt;(%room%)" placeholders="1" room="31810" healrate="0" manarate="0" tags="norecall prison" id="320">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;align=center;" parent="1" vertex="1">
+                        <mxGeometry x="180" y="559" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="Demon Spawning Grounds&lt;br&gt;(%room%)" placeholders="1" room="31811" healrate="0" manarate="0" tags="norecall prison" id="321">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;align=center;" parent="1" vertex="1">
+                        <mxGeometry x="340" y="559" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="325" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="324" target="318" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="327" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="324" target="314" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="367" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="324" target="304" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="Deeper into the Nenukon&lt;br&gt;(%room%)" placeholders="1" room="31807" healrate="-40" manarate="-40" tags="norecall prison" id="324">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;strokeColor=#0000FF;" parent="1" vertex="1">
+                        <mxGeometry x="180" y="359" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="329" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="328" target="316" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="373" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="328" target="330" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="The Heart of the Nenukon&lt;br&gt;(%room%)&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;[**&amp;gt; PK &amp;lt;**]&lt;/font&gt;" placeholders="1" room="31812" healrate="-50" manarate="-50" tags="norecall prison pk" id="328">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;align=center;" parent="1" vertex="1">
+                        <mxGeometry x="20" y="559" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="374" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="330" target="332" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="Far Side of the Nenukon&lt;br&gt;(%room%)" placeholders="1" room="31813" healrate="-30" manarate="-30" tags="norecall prison" id="330">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;strokeColor=#0000FF;" parent="1" vertex="1">
+                        <mxGeometry x="20" y="659" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="336" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="332" target="334" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="340" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="332" target="339" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="Nearing the Great Wall&lt;br&gt;(%room%)" placeholders="1" room="31814" healrate="50" manarate="50" tags="norecall prison" id="332">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;align=center;" parent="1" vertex="1">
+                        <mxGeometry x="20" y="759" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="337" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="334" target="335" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="The Great Wall&lt;br&gt;(%room%)" placeholders="1" room="31815" healrate="50" manarate="50" tags="norecall prison" id="334">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;align=center;" parent="1" vertex="1">
+                        <mxGeometry x="20" y="859" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="The Great Wall&lt;br&gt;(%room%)" placeholders="1" room="31816" healrate="50" manarate="50" tags="norecall prison" id="335">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;align=center;" parent="1" vertex="1">
+                        <mxGeometry x="20" y="959" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="342" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="339" target="341" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="Nearing a Campsite&lt;br&gt;(%room%)" placeholders="1" room="31817" healrate="50" manarate="50" tags="norecall prison" id="339">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;align=center;fillColor=#FFFFFF;" parent="1" vertex="1">
+                        <mxGeometry x="180" y="759" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="345" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="341" target="343" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="346" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="341" target="344" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="351" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="341" target="347" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="A Campsite&lt;br&gt;(%room%)" placeholders="1" room="31818" healrate="50" manarate="50" id="341">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;align=center;fillColor=#CCFFCC;" parent="1" vertex="1">
+                        <mxGeometry x="340" y="759" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="Lynx Tribe Encampment&lt;br&gt;(%room%)" placeholders="1" room="31819" healrate="100" manarate="100" id="343">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;align=center;fillColor=#CCFFCC;" parent="1" vertex="1">
+                        <mxGeometry x="340" y="659" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="Eagle Tribe Encampment&lt;br&gt;(%room%)" placeholders="1" room="31820" healrate="100" manarate="100" id="344">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;align=center;fillColor=#CCFFCC;" parent="1" vertex="1">
+                        <mxGeometry x="340" y="859" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="352" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="347" target="348" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="359" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="347" target="357" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="A Campsite&lt;br&gt;(%room%)" placeholders="1" room="31821" healrate="50" manarate="50" id="347">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;align=center;fillColor=#CCFFCC;" parent="1" vertex="1">
+                        <mxGeometry x="500" y="759" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="354" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="348" target="349" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="356" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="348" target="355" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="A Campsite&lt;br&gt;(%room%)" placeholders="1" room="31822" healrate="50" manarate="50" id="348">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;align=center;fillColor=#CCFFCC;" parent="1" vertex="1">
+                        <mxGeometry x="500" y="659" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="Rattlesnake Tribe Encampment&lt;br&gt;(%room%)" placeholders="1" room="31823" healrate="100" manarate="100" id="349">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;align=center;fillColor=#CCFFCC;" parent="1" vertex="1">
+                        <mxGeometry x="500" y="559" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="353" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="350" target="347" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="Elk Tribe Encampment&lt;br&gt;(%room%)" placeholders="1" room="31825" healrate="100" manarate="100" id="350">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;align=center;fillColor=#CCFFCC;" parent="1" vertex="1">
+                        <mxGeometry x="500" y="859" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="Fox Tribe Encampment&lt;br&gt;(%room%)" placeholders="1" room="31824" healrate="100" manarate="100" id="355">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;align=center;fillColor=#CCFFCC;" parent="1" vertex="1">
+                        <mxGeometry x="660" y="659" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="360" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="357" target="358" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="364" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="357" target="361" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="A Campsite&lt;br&gt;(%room%)" placeholders="1" room="31826" healrate="50" manarate="50" id="357">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;align=center;fillColor=#CCFFCC;" parent="1" vertex="1">
+                        <mxGeometry x="660" y="759" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="Mink Tribe Encampment&lt;br&gt;(%room%)" placeholders="1" room="31829" healrate="100" manarate="100" id="358">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;align=center;fillColor=#CCFFCC;" parent="1" vertex="1">
+                        <mxGeometry x="660" y="859" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="365" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="361" target="362" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="366" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="361" target="363" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="A Campsite&lt;br&gt;(%room%)" placeholders="1" room="31827" healrate="50" manarate="50" id="361">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;align=center;fillColor=#CCFFCC;" parent="1" vertex="1">
+                        <mxGeometry x="820" y="759" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="Bear Tribe Encampment&lt;br&gt;(%room%)" placeholders="1" room="31828" healrate="100" manarate="100" id="362">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;align=center;fillColor=#CCFFCC;" parent="1" vertex="1">
+                        <mxGeometry x="820" y="659" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="Cougar Tribe Encampment&lt;br&gt;(%room%)" placeholders="1" room="31820" healrate="100" manarate="100" id="363">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;align=center;fillColor=#CCFFCC;" parent="1" vertex="1">
+                        <mxGeometry x="980" y="759" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="372" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="369" target="371" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="The Nenukon&lt;br&gt;(%room%)" room="31796" placeholders="1" healrate="-25" manarate="-25" tags="norecall prison" id="369">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;strokeColor=#0000FF;fillColor=#FFFFFF;" parent="1" vertex="1">
+                        <mxGeometry x="820" y="359" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="Yota Timo's Army!&lt;br&gt;(%room%)" placeholders="1" room="31833" healrate="0" manarate="0" tags="norecall prison" id="371">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;align=center;" parent="1" vertex="1">
+                        <mxGeometry x="980" y="359" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <object label="" placeholders="1" room="0" healrate="0" manarate="0" tags="norecall prison" id="377">
+                    <mxCell style="group" parent="1" vertex="1" connectable="0">
+                        <mxGeometry x="1300" y="659" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <UserObject label="The Pit of Monuhi&lt;br&gt;(%room%)" placeholders="1" room="31801" healrate="0" manarate="0" tags="norecall prison" id="299">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="377" vertex="1">
+                        <mxGeometry width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="375" value="kill eagle champ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=11;fontColor=#0000FF;" parent="377" vertex="1">
+                    <mxGeometry x="10" y="2" width="100" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="378" value="" style="group;fillColor=#CCFFFF;strokeColor=#000000;container=0;" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="1300" y="559" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <UserObject label="" tooltip="" id="379">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;align=center;fillColor=#CCFFCC;" parent="1" vertex="1">
+                        <mxGeometry x="1080" y="200" width="37" height="24" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="" tooltip="" id="381">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#FFFFFF;strokeColor=#0000FF;" parent="1" vertex="1">
+                        <mxGeometry x="1080" y="264" width="37" height="24" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="" tooltip="" id="382">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;align=center;fillColor=#CCFFFF;" parent="1" vertex="1">
+                        <mxGeometry x="1080" y="232" width="37" height="24" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="Inside the Tomb of Monuhi&lt;br&gt;(%room%)" placeholders="1" room="31802" healrate="-100" manarate="-100" tags="norecall" id="301">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#CCFFFF;" parent="1" vertex="1">
+                        <mxGeometry x="1300" y="559" width="120" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="376" value="(kill eagle champ)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=11;fontColor=#0000FF;" parent="1" vertex="1">
+                    <mxGeometry x="1310" y="609" width="100" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="384" value="Can portal or recall from here" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
+                    <mxGeometry x="1121" y="202" width="195" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="385" value="Can portal from here (no recall)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
+                    <mxGeometry x="1121" y="234" width="195" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="386" value="Room exit directions are randomized" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
+                    <mxGeometry x="1121" y="266" width="195" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="388" value="To find your way back to the entrance:&lt;br&gt;&lt;b&gt;hunt hooded&lt;/b&gt;" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;strokeColor=#000000;perimeterSpacing=0;spacingLeft=3;dashed=1;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="79" width="127" height="62" as="geometry"/>
+                </mxCell>
+                <mxCell id="389" value="To move towards these rooms:&lt;br&gt;&lt;b&gt;hunt eagle champ&lt;/b&gt;" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;strokeColor=#000000;perimeterSpacing=0;spacingLeft=3;dashed=1;spacingRight=0;" parent="1" vertex="1">
+                    <mxGeometry x="820" y="159" width="127" height="62" as="geometry"/>
+                </mxCell>
+                <mxCell id="390" value="&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b style=&quot;color: rgb(255 , 0 , 0)&quot;&gt;Warning!&lt;br&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;Most rooms in this area have zero or negative regeneration.&amp;nbsp; Come prepared with potions and move quickly.&lt;br&gt;&lt;br&gt;Also, be prepared to encounter roaming aggressive mobs.&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;spacing=6;strokeColor=#FF0000;" parent="1" vertex="1">
+                    <mxGeometry x="1080" y="15" width="203" height="150" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
