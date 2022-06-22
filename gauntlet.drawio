@@ -142,6 +142,9 @@
                 <mxCell id="452" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=none;" parent="1" source="480" target="438" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
+                <mxCell id="580" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="430" target="438">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
                 <UserObject label="The Gauntlet&lt;br&gt;(%room%)" placeholders="1" room="31704" healrate="100" manarate="100" tags="" id="430">
                     <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#FFFFFF;strokeColor=#0000FF;" parent="1" vertex="1">
                         <mxGeometry x="360" y="280" width="120" height="60" as="geometry"/>
