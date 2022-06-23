@@ -786,13 +786,13 @@
                     </mxCell>
                 </object>
                 <mxCell id="502" value="&lt;div&gt;Wear &lt;font face=&quot;Tahoma&quot;&gt;&lt;b&gt;the King's blessing&lt;/b&gt;&lt;/font&gt; to avoid damage when moving between rooms.&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;gradientColor=none;dashed=1;spacing=6;" parent="1" vertex="1">
-                    <mxGeometry x="581" y="-15.5" width="155" height="50" as="geometry"/>
+                    <mxGeometry x="581" y="-23.5" width="155" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="503" value="&lt;div&gt;Wear &lt;b&gt;&lt;font face=&quot;Tahoma&quot;&gt;the Light of the Balance&lt;/font&gt;&lt;/b&gt; to prevent the enemies from healing&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;gradientColor=none;dashed=1;spacing=6;" parent="1" vertex="1">
                     <mxGeometry x="581" y="44.5" width="155" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="505" value="&lt;div&gt;Locked doors in the Prison are just for show - they go nowhere and have no key.&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;gradientColor=none;dashed=1;spacing=6;" parent="1" vertex="1">
-                    <mxGeometry x="1565" y="1080" width="155" height="50" as="geometry"/>
+                    <mxGeometry x="1565" y="1078" width="155" height="54" as="geometry"/>
                 </mxCell>
                 <mxCell id="507" value="&lt;div&gt;Wear &lt;font face=&quot;Tahoma&quot;&gt;&lt;b&gt;The Nixie Shield&lt;/b&gt;&lt;/font&gt; to avoid additional damage from Nixie devilment.&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;gradientColor=none;dashed=1;spacing=6;" parent="1" vertex="1">
                     <mxGeometry x="595" y="730" width="155" height="50" as="geometry"/>
