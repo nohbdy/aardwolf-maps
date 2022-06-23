@@ -7,6 +7,7 @@
 * [glamdursil](https://raw.githubusercontent.com/nohbdy/aardwolf-maps/main/glamdursil.svg)
 * [horath](https://raw.githubusercontent.com/nohbdy/aardwolf-maps/main/horath.svg)
 * [nenukon](https://raw.githubusercontent.com/nohbdy/aardwolf-maps/main/nenukon.svg)
+* [partroxis](https://raw.githubusercontent.com/nohbdy/aardwolf-maps/main/partroxis.svg)
 * [raukora](https://raw.githubusercontent.com/nohbdy/aardwolf-maps/main/raukora.svg)
 * [rebellion](https://raw.githubusercontent.com/nohbdy/aardwolf-maps/main/rebellion.svg)
 * [zyian](https://raw.githubusercontent.com/nohbdy/aardwolf-maps/main/zyian.svg)
